@@ -1,0 +1,32 @@
+{
+  "name": "node-docref",
+  "version": "0.1.0",
+  "description": "simple API to get or set ref in doc",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "eslint . && istanbul cover _mocha -- test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sartrey/node-docref.git"
+  },
+  "keywords": [
+    "document",
+    "reference"
+  ],
+  "author": "Sartrey Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sartrey/node-docref/issues"
+  },
+  "homepage": "https://github.com/sartrey/node-docref#readme",
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}

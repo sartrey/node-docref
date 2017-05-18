@@ -1,0 +1,35 @@
+.icon-rwby01 {
+  background: url(fixture/image/rwby.png?m=image/png);
+}
+
+.icon-rwby02 {
+  background: url(image/rwby.png?m=image/png);
+}
+
+.icon-rwby03 {
+  background: url(/image/rwby.png?m=image/png);
+}
+
+.icon-rwby04 {
+  background: url(//www.abc.com/image/rwby.png?m=image/png);
+}
+
+.icon-rwby05 {
+  background: url(//www.abc.com/image/rwby.png?m=image/png);
+}
+
+.icon-rwby06 {
+  background: url(//www.abc.com/image/rwby.png?m=image/png);
+}
+
+.icon-rwby07 {
+  background: url(//www.abc.com/image/rwby.png?m=image/png);
+}
+
+.icon-rwby08 {
+  background: url(//www.abc.com/image/rwby.png?m=image/png);
+}
+
+.icon-rwby09 {
+  background: url(/abc?m=text/plain);
+}
