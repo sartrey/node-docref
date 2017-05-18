@@ -1,6 +1,6 @@
 {
   "name": "node-docref",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "simple API to get or set ref in doc",
   "main": "index.js",
   "scripts": {
